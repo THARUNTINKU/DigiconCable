@@ -52,6 +52,7 @@ def setlist(totaldict):
         print(sheetname, "customer id records saved successfully" )
 
 
+#check github
 totalCustIDdict = generateDictForCustID()
 #print(totaldict)
 #print("Filter count: ", len(totaldict))
